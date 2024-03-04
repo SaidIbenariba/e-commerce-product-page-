@@ -1,0 +1,8 @@
+[
+  {
+    "Name": "Sneakers",
+    "Picture": "../public/images/image-product-1-thumbnail.jpg",
+    "Quantity": 3,
+    "Price": 150
+  }
+]
